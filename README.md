@@ -11,3 +11,6 @@
 # Esperiencia previa 
 -Paginas web con Wordpress
 -Paginas web dinamicas
+# Contacto
+-963138299
+-1566731@senati.pe
